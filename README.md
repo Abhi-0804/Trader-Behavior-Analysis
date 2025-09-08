@@ -45,7 +45,7 @@
 ---
 
 
-## 💼 Resume Highlights
+## 💼 Highlights
 - Analyzed **500K+ crypto trades** alongside the **Fear & Greed Index** to investigate sentiment’s effect on trader PnL and risk-taking.
 - Applied statistical tests and regression models, confirming significant performance differences across sentiment regimes.
 - Designed a **risk-adjusted backtest strategy** that cut exposure on “Fear” days, reducing drawdowns while highlighting trade-offs in returns.
