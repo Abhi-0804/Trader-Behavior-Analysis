@@ -1,4 +1,4 @@
-# Trader-Behavior-Submission
+# Trader-Behavior-Analysis
 
 
 
@@ -69,7 +69,7 @@ Future improvements include:
 
 ## Notes & next steps (suggested)
 - Run extended analyses: panel regressions with account fixed effects, logistic models for win probability, lagged sentiment effects, subgroup (by coin/leverage), and backtest simple risk rules (e.g., reduce leverage during Fear).
-- I can produce a 1-page executive summary PDF and a 3-slide deck if you want to include a more polished submission for the hiring email.
+
 
 
 
