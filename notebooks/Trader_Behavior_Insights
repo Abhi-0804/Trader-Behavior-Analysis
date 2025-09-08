@@ -1,0 +1,16 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy import stats
+import statsmodels.formula.api as smf
+
+fear = pd.read_csv(r'fear_greed_index.csv')
+trades = pd.read_csv(r'historical_data.csv', low_memory=False)
+print('Loaded')
+
+# (Run the notebook cells step-by-step to reproduce the analysis)
+
+# The saved aggregates are:
+print('Saved files:')
+print('daily_aggregates.csv')
+print('account_daily_aggregates.csv')
